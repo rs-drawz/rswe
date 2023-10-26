@@ -1,0 +1,154 @@
+[
+    {
+        "name":"Yuvan portrait",
+        "images":[
+            {
+                "image":"/images/products/10.jpg"
+            },
+            {
+                "image":"/images/products/y2.JPG"
+
+            },
+            {
+                "image":"/images/products/y9.JPG"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":3501,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+        "stock":"20",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":7,
+        "reviews":[]
+
+    },
+    {
+        "name":"ROLEX portrait",
+        "images":[
+            {
+                "image":"/images/products/02.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":3500,
+        "description":"Graphite pencil Artwork",
+        "ratings":"4",
+        "stock":"10",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":19,
+        "reviews":[]
+
+    },
+    {
+        "name":"Madan gowri portrait",
+        "images":[
+            {
+                "image":"/images/products/03.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":2000,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+        "stock":"7",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":5,
+        "reviews":[]
+
+    }, {
+        "name":"Pradeep ranganathan portrait",
+        "images":[
+            {
+                "image":"/images/products/04.jpg"
+            },
+            {
+                "image":"/images/products/03.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":2000,
+        "description":"Graphite pencil  artwork",
+        "ratings":"4",
+        "quantity":"10",
+        "stock":"18",
+        "Artist":"Sabarish",
+        "numofReviews":12,
+        "reviews":[]
+
+    }, {
+        "name":"Ilayaraja portrait",
+        "images":[
+            {
+                "image":"/images/products/07.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":4500,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+        "quantity":"10",
+        "stock":"40",
+        "Artist":"Sabarish",
+        "numofReviews":3,
+        "reviews":[]
+
+    },
+    {
+        "name":"Maddy portrait",
+        "images":[
+            {
+                "image":"./images/products/08.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":4008,
+        "description":"Graphite pencil paid artwork",
+        "ratings":"4",
+        "stock":"16",
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":8,
+        "reviews":[]
+
+    },
+    {
+        "name":"RJ portrait",
+        "images":[
+            {
+                "image":"./images/prodcts/06.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":1500,
+        "description":"Graphite pencil artwork",
+        "ratings":"4",
+         "quantity":"10",
+        "stock":1,
+        "Artist":"Sabarish",
+        "numofReviews":3,
+        "reviews":[]
+
+    },
+    {
+        "name":"Family portrait",
+        "images":[
+            {
+                "image":"/images/products/09.jpg"
+            }
+        ],
+        "category":"pencil sketch",
+        "price":1500,
+        "description":"Graphite pencil paid artwork",
+        "ratings":"4",
+        "stock":1,
+        "quantity":"10",
+        "Artist":"Sabarish",
+        "numofReviews":3,
+        "reviews":[]
+
+    }
+]
